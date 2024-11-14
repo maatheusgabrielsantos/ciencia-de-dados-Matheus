@@ -1,0 +1,1 @@
+const url ='https://raw.githubusercontent.com/maatheusgabrielsantos/ciencia-de-dados-Matheus/refs/heads/main/dados-globais.json'
